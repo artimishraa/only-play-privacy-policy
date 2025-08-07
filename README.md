@@ -1,4 +1,3 @@
-# Only Play Privacy Policy
 
 Only Play does not collect, store, or share any personal data.
 
